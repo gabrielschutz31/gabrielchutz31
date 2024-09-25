@@ -4,6 +4,7 @@
 Estou estudando na [Alura](https://ww.alura.com.br/)
 
 Eu tenho 16 anos
+
 Eu gosto de jogar futsal
 
 Gosto de jogar fifa
@@ -15,4 +16,6 @@ entre em contato comigo (schutzgabriel584@gmail.com)
 
 ![](https://media1.tenor.com/m/RJgelExVb9gAAAAd/jordan-love-let%27s-go.gif)
 
-![](https://media1.tenor.com/m/COM78THbePQAAAAd/neymar.gif)
+
+![](https://scratch.mit.edu/projects/1072631183)
+
